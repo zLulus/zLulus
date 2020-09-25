@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 🌱  Hi, I am Lulu.   
-![懒得勤快's github stats](https://github-readme-stats.vercel.app/api?username=zLulus&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=zLulus&show_icons=true)
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=zLulus)    
