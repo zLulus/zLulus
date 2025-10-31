@@ -1,8 +1,7 @@
 <img align="right" width="250px" src="https://mvp.microsoft.com/Content/Images/mvp-banner.png" />
 
 Hi, I am Lulu.   
-- 👨‍💻 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003010).
-- 🌱 I’m currently learning ML .NET.
+- 🌱 I’m currently learning godot.
 - 💕 I’m an open source enthusiast.
 - 🖖 I’m a .NET developer.
 
